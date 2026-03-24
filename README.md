@@ -8,8 +8,8 @@ HR-Analytics-Dashboard/
 │   ├── data.csv promomtion.xlsx
 │
 ├── images/
-│   ├── overview.png
-│   ├── performance.png
-│   ├── cost.png
+│   ├── overview.PNG
+│   ├── performance.PNG
+│   ├── cost.PNG
 │
 └── README.md
